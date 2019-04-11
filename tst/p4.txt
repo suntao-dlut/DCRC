@@ -1,0 +1,831 @@
+\addplot[green, mark=*] plot coordinates{ 
+( 0.1,   1.304) 
+( 0.2,   1.433) 
+( 0.3,   1.486) 
+( 0.4,   1.554) 
+( 0.5,   1.609) 
+( 0.6,   1.677) 
+( 0.7,   1.712) 
+( 0.8,   1.737) 
+( 0.9,   1.763) 
+( 1.0,   1.774) 
+}; 
+\addplot[blue, mark=square*] plot coordinates{ 
+( 0.1,   1.572) 
+( 0.2,   1.644) 
+( 0.3,   1.666) 
+( 0.4,   1.692) 
+( 0.5,   1.743) 
+( 0.6,   1.775) 
+( 0.7,   1.810) 
+( 0.8,   1.813) 
+( 0.9,   1.816) 
+( 1.0,   1.832) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.003) 
+( 0.2,   0.003) 
+( 0.3,   0.004) 
+( 0.4,   0.005) 
+( 0.5,   0.007) 
+( 0.6,   0.007) 
+( 0.7,   0.007) 
+( 0.8,   0.007) 
+( 0.9,   0.011) 
+( 1.0,   0.010) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.006) 
+( 0.2,   0.011) 
+( 0.3,   0.010) 
+( 0.4,   0.010) 
+( 0.5,   0.013) 
+( 0.6,   0.014) 
+( 0.7,   0.014) 
+( 0.8,   0.018) 
+( 0.9,   0.018) 
+( 1.0,   0.022) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.000) 
+( 0.2,   0.000) 
+( 0.3,   0.000) 
+( 0.4,   0.000) 
+( 0.5,   0.000) 
+( 0.6,   0.000) 
+( 0.7,   0.000) 
+( 0.8,   0.000) 
+( 0.9,   0.000) 
+( 1.0,   0.000) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.012) 
+( 0.2,   0.013) 
+( 0.3,   0.018) 
+( 0.4,   0.014) 
+( 0.5,   0.013) 
+( 0.6,   0.015) 
+( 0.7,   0.016) 
+( 0.8,   0.017) 
+( 0.9,   0.017) 
+( 1.0,   0.018) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.012) 
+( 0.2,   0.013) 
+( 0.3,   0.015) 
+( 0.4,   0.013) 
+( 0.5,   0.018) 
+( 0.6,   0.015) 
+( 0.7,   0.015) 
+( 0.8,   0.016) 
+( 0.9,   0.016) 
+( 1.0,   0.018) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.014) 
+( 0.2,   0.015) 
+( 0.3,   0.013) 
+( 0.4,   0.014) 
+( 0.5,   0.016) 
+( 0.6,   0.018) 
+( 0.7,   0.016) 
+( 0.8,   0.018) 
+( 0.9,   0.025) 
+( 1.0,   0.022) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.011) 
+( 0.2,   0.018) 
+( 0.3,   0.013) 
+( 0.4,   0.013) 
+( 0.5,   0.015) 
+( 0.6,   0.015) 
+( 0.7,   0.015) 
+( 0.8,   0.017) 
+( 0.9,   0.017) 
+( 1.0,   0.026) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.012) 
+( 0.2,   0.017) 
+( 0.3,   0.013) 
+( 0.4,   0.017) 
+( 0.5,   0.020) 
+( 0.6,   0.015) 
+( 0.7,   0.016) 
+( 0.8,   0.017) 
+( 0.9,   0.023) 
+( 1.0,   0.021) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.013) 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.010) 
+( 0.2,   0.011) 
+( 0.3,   0.012) 
+( 0.4,   0.014) 
+( 0.5,   0.018) 
+( 0.6,   0.022) 
+( 0.7,   0.014) 
+( 0.8,   0.014) 
+( 0.9,   0.016) 
+( 1.0,   0.016) 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.010) 
+( 0.2,   0.012) 
+( 0.3,   0.012) 
+( 0.4,   0.013) 
+( 0.5,   0.013) 
+( 0.6,   0.014) 
+( 0.7,   0.014) 
+( 0.8,   0.015) 
+( 0.9,   0.018) 
+( 1.0,   0.015) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.010) 
+( 0.2,   0.016) 
+( 0.3,   0.012) 
+( 0.4,   0.013) 
+( 0.5,   0.013) 
+( 0.6,   0.031) 
+( 0.7,   0.020) 
+( 0.8,   0.017) 
+( 0.9,   0.016) 
+( 1.0,   0.017) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.011) 
+( 0.2,   0.015) 
+( 0.3,   0.014) 
+( 0.4,   0.013) 
+( 0.5,   0.015) 
+( 0.6,   0.016) 
+( 0.7,   0.022) 
+( 0.8,   0.021) 
+( 0.9,   0.017) 
+( 1.0,   0.020) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.012) 
+( 0.2,   0.014) 
+( 0.3,   0.013) 
+( 0.4,   0.014) 
+( 0.5,   0.016) 
+( 0.6,   0.015) 
+( 0.7,   0.015) 
+( 0.8,   0.016) 
+( 0.9,   0.017) 
+( 1.0,   0.018) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.010) 
+( 0.2,   0.015) 
+( 0.3,   0.012) 
+( 0.4,   0.013) 
+( 0.5,   0.013) 
+( 0.6,   0.015) 
+( 0.7,   0.017) 
+( 0.8,   0.015) 
+( 0.9,   0.016) 
+( 1.0,   0.016) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.013) 
+( 0.2,   0.013) 
+( 0.3,   0.014) 
+( 0.4,   0.014) 
+( 0.5,   0.016) 
+( 0.6,   0.016) 
+( 0.7,   0.019) 
+( 0.8,   0.018) 
+( 0.9,   0.019) 
+( 1.0,   0.018) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.007) 
+( 0.2,   0.009) 
+( 0.3,   0.008) 
+( 0.4,   0.009) 
+( 0.5,   0.010) 
+( 0.6,   0.009) 
+( 0.7,   0.010) 
+( 0.8,   0.010) 
+( 0.9,   0.011) 
+( 1.0,   0.012) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.001) 
+( 0.2,   0.001) 
+( 0.3,   0.002) 
+( 0.4,   0.003) 
+( 0.5,   0.002) 
+( 0.6,   0.003) 
+( 0.7,   0.003) 
+( 0.8,   0.003) 
+( 0.9,   0.003) 
+( 1.0,   0.005) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.002) 
+( 0.2,   0.002) 
+( 0.3,   0.003) 
+( 0.4,   0.003) 
+( 0.5,   0.003) 
+( 0.6,   0.004) 
+( 0.7,   0.005) 
+( 0.8,   0.006) 
+( 0.9,   0.007) 
+( 1.0,   0.008) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.001) 
+( 0.2,   0.002) 
+( 0.3,   0.002) 
+( 0.4,   0.003) 
+( 0.5,   0.003) 
+( 0.6,   0.005) 
+( 0.7,   0.005) 
+( 0.8,   0.006) 
+( 0.9,   0.007) 
+( 1.0,   0.007) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.006) 
+( 0.2,   0.007) 
+( 0.3,   0.008) 
+( 0.4,   0.011) 
+( 0.5,   0.014) 
+( 0.6,   0.009) 
+( 0.7,   0.009) 
+( 0.8,   0.009) 
+( 0.9,   0.011) 
+( 1.0,   0.012) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.002) 
+( 0.2,   0.002) 
+( 0.3,   0.002) 
+( 0.4,   0.002) 
+( 0.5,   0.003) 
+( 0.6,   0.002) 
+( 0.7,   0.002) 
+( 0.8,   0.002) 
+( 0.9,   0.002) 
+( 1.0,   0.003) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.018) 
+( 0.2,   0.019) 
+( 0.3,   0.020) 
+( 0.4,   0.022) 
+( 0.5,   0.026) 
+( 0.6,   0.024) 
+( 0.7,   0.024) 
+( 0.8,   0.024) 
+( 0.9,   0.025) 
+( 1.0,   0.028) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.020) 
+( 0.2,   0.018) 
+( 0.3,   0.019) 
+( 0.4,   0.020) 
+( 0.5,   0.022) 
+( 0.6,   0.027) 
+( 0.7,   0.028) 
+( 0.8,   0.023) 
+( 0.9,   0.033) 
+( 1.0,   0.030) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.019) 
+( 0.2,   0.025) 
+( 0.3,   0.021) 
+( 0.4,   0.027) 
+( 0.5,   0.023) 
+( 0.6,   0.028) 
+( 0.7,   0.025) 
+( 0.8,   0.023) 
+( 0.9,   0.029) 
+( 1.0,   0.029) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.021) 
+( 0.2,   0.026) 
+( 0.3,   0.024) 
+( 0.4,   0.026) 
+( 0.5,   0.028) 
+( 0.6,   0.033) 
+( 0.7,   0.031) 
+( 0.8,   0.030) 
+( 0.9,   0.030) 
+( 1.0,   0.031) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.016) 
+( 0.2,   0.022) 
+( 0.3,   0.020) 
+( 0.4,   0.022) 
+( 0.5,   0.023) 
+( 0.6,   0.025) 
+( 0.7,   0.024) 
+( 0.8,   0.026) 
+( 0.9,   0.027) 
+( 1.0,   0.031) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.030) 
+( 0.2,   0.037) 
+( 0.3,   0.037) 
+( 0.4,   0.042) 
+( 0.5,   0.038) 
+( 0.6,   0.037) 
+( 0.7,   0.041) 
+( 0.8,   0.040) 
+( 0.9,   0.040) 
+( 1.0,   0.043) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.000) 
+( 0.2,   0.000) 
+( 0.3,   0.000) 
+( 0.4,   0.000) 
+( 0.5,   0.000) 
+( 0.6,   0.000) 
+( 0.7,   0.000) 
+( 0.8,   0.000) 
+( 0.9,   0.000) 
+( 1.0,   0.000) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.013) 
+( 0.2,   0.012) 
+( 0.3,   0.013) 
+( 0.4,   0.013) 
+( 0.5,   0.014) 
+( 0.6,   0.020) 
+( 0.7,   0.015) 
+( 0.8,   0.018) 
+( 0.9,   0.017) 
+( 1.0,   0.022) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.008) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.010) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.010) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.009) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.011) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.016) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.021) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.0,   0.018) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.0,   0.025) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 1.0,   0.022) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.017) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.046) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.048) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.044) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.043) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.0,   0.048) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.057) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.017) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.012) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.011) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.016) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.027) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.018) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.018) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.012) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.014) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.011) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.019) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.022) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.022) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.022) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.022) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.036) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.018) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.463) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   8.525) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   8.102) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.463) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.459) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.709) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.755) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.762) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.813) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.780) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.794) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.839) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.797) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.733) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.465) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.674) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.885) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.841) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   1.009) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   1.338) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   1.152) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   1.610) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   1.462) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   1.282) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   1.567) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   1.362) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   1.175) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   1.288) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   2.115) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.748) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   1.648) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   6.955) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   3.832) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   2.908) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   1.686) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.364) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.268) 
+}; 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+\addplot[orange, mark=o] plot coordinates{ 
+( 0.1,   0.201) 
+}; 

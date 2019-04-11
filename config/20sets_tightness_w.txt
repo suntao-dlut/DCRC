@@ -1,0 +1,25 @@
+#define LAMBDA 0.2 //edit...
+#define EPSILON 0.1
+#define TOTAL_DATA 5504
+#define COPY_NUM 1
+
+#define TABLE2_FLAG 0
+#define TABLE3_FLAG 0
+
+#define CYLND_CURVE_TREE 0
+#define TIGHTNESS_PRUNNING 0
+#define LONG_SHORT 0
+#define LAMBDA_TOLERANCE 0
+#define DIM_FLAG 0
+#define TEST_FLAG 0
+
+#define TEX_DATA_BEGIN_1 "\\addplot[green, mark=*] plot coordinates{"
+#define TEX_DATA_BEGIN_2 "\\addplot[blue, mark=square*] plot coordinates{"
+#define TEX_DATA_BEGIN_3 "\\addplot[orange, mark=o] plot coordinates{"
+#define TEX_DATA_BEGIN_4 "\\addplot[red, mark=+] plot coordinates{"
+#define TEX_DATE_END "};"
+
+using namespace std;
+
+int DIM_LONG    = 20;
+int DIM_SHORT   = 10;
